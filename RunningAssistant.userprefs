@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RunningAssistant\HomeActivity.cs">
+    <Files>
+      <File FileName="RunningAssistant\CalculatorActivity.cs" Line="39" Column="71" />
+      <File FileName="RunningAssistant\Favorites.cs" Line="1" Column="1" />
+      <File FileName="Components\Auth0Client-0.1\samples\Auth0Client.Android.Sample\Auth0Client.Android.Sample\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="RunningAssistant\PaceCalculator.cs" Line="9" Column="31" />
+      <File FileName="RunningAssistant\Pace.cs" Line="14" Column="3" />
+      <File FileName="RunningAssistant\SplitItem.cs" Line="19" Column="1" />
+      <File FileName="RunningAssistant\PaceCalculationResult.cs" Line="6" Column="2" />
+      <File FileName="RunningAssistant\SplitItemAdapter.cs" Line="26" Column="33" />
+      <File FileName="RunningAssistant\PaceCalculateParameters.cs" Line="5" Column="2" />
+      <File FileName="RunningAssistant\HomeActivity.cs" Line="19" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="RunningAssistant" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Assets" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+              <Node name="layout" expanded="True" />
+            </Node>
+            <Node name="HomeActivity.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RunningAssistant AndroidDeviceId-Debug="emulator-5554" MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
